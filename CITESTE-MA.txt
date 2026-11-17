@@ -1,0 +1,36 @@
+TENDERS VCE RO — PORTAL LOCAL
+Versiune beta bilingvă: 17 noiembrie 2026
+Punct de plecare pentru dezvoltarea ulterioară a platformei.
+
+1. Dezarhivează întregul fișier ZIP într-un folder.
+2. Deschide index.html cu Chrome, Edge, Firefox sau alt browser actual.
+3. Păstrează fișierele și subfolderele împreună. Nu deschide pagina din interiorul arhivei.
+4. Alege Română sau English din meniul din dreapta sus, disponibil și în analizele individuale. Limba se păstrează când navighezi și, dacă browserul permite stocarea, la redeschidere. Schimbarea limbii nu modifică notele, bifările sau pagina curentă.
+
+Interfața și analizele sunt bilingve. Documentele-sursă PDF/XML sunt păstrate în limba originală, română.
+
+Portalul, analizele individuale și cele 23 de documente locale funcționează fără internet. Linkurile SEAP și celelalte surse online necesită conexiune.
+
+Marcajele, notele și deciziile se păstrează în browserul utilizat. Pentru transfer, folosește „Exportă marcajele”, apoi „Importă marcajele” în cealaltă copie. Importul înlocuiește marcajele existente cu cele din fișier. Unele browsere pot limita stocarea în pagini locale; exportul JSON rămâne disponibil.
+
+ACOPERIRE
+- CN1098176: Castel Teleki, exclusiv Lotul 1; estimarea DALI se referă la întregul obiectiv, în prețuri iulie 2023.
+- CN1095239: sală de concerte Timișoara; păstrează rezervele privind documentația remediată după CNSC.
+- CN1098041: Pasaj Urseni; buget separat de proiectare neidentificat în setul recuperat.
+- CN1098130: școală și liceu Voluntari; datele anunțului și bugetul sunt disponibile, însă documentația originală pentru calificare și echipă nu este inclusă.
+
+Nu există actualizare automată din SEAP. Termenele și condițiile se citesc împreună cu sursele și rezervele din fiecare dosar.
+
+Butonul „Versiune locală” din copia offline nu descarcă încă o arhivă. Ai deja întregul portal dezarhivat.
+
+ENGLISH — LOCAL BETA VERSION
+This beta is a starting point for the platform's further development.
+
+1. Extract the entire ZIP into a folder and open index.html in a current browser.
+2. Keep all files and subfolders together. Do not open the page from inside the ZIP.
+3. Use the top-right Română / English menu on any page, including the individual analyses. Your choice is carried between pages and remembered where browser storage is available. Switching languages preserves the current page, notes, filters and checkmarks.
+4. The portal, individual analyses and 23 local source documents work offline. SEAP and other web sources require internet. The source PDFs/XML remain in Romanian.
+
+Decisions, marks and notes are stored only in your browser. Use “Export marks” and “Import marks” to transfer portal data; import replaces existing marks. Local-file storage can be limited by browser settings, so retain a JSON backup. The local download button indicates that you are already using the extracted version.
+
+Coverage: CN1098176 covers Teleki Lot 1, with a historical DALI estimate for the entire investment; CN1095239 retains the caveats about documentation amended following CNSC decisions; CN1098041 has no separately identified design budget; CN1098130 has notice details and a design budget but its original team and qualification documents are not included. There are no automatic SEAP updates. Read deadlines and requirements together with the cited sources and caveats.
