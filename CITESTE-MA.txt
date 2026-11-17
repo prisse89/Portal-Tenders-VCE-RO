@@ -1,0 +1,20 @@
+TENDERS VCE RO — PORTAL LOCAL
+Ediție consolidată: 17 noiembrie 2026
+
+1. Dezarhivează întregul fișier ZIP într-un folder.
+2. Deschide index.html cu Chrome, Edge, Firefox sau alt browser actual.
+3. Păstrează fișierele și subfolderele împreună. Nu deschide pagina din interiorul arhivei.
+
+Portalul, analizele individuale și cele 23 de documente locale funcționează fără internet. Linkurile SEAP și celelalte surse online necesită conexiune.
+
+Marcajele, notele și deciziile se păstrează în browserul utilizat. Pentru transfer, folosește „Exportă marcajele”, apoi „Importă marcajele” în cealaltă copie. Importul înlocuiește marcajele existente cu cele din fișier. Unele browsere pot limita stocarea în pagini locale; exportul JSON rămâne disponibil.
+
+ACOPERIRE
+- CN1098176: Castel Teleki, exclusiv Lotul 1; estimarea DALI se referă la întregul obiectiv, în prețuri iulie 2023.
+- CN1095239: sală de concerte Timișoara; păstrează rezervele privind documentația remediată după CNSC.
+- CN1098041: Pasaj Urseni; buget separat de proiectare neidentificat în setul recuperat.
+- CN1098130: școală și liceu Voluntari; datele anunțului și bugetul sunt disponibile, însă documentația originală pentru calificare și echipă nu este inclusă.
+
+Nu există actualizare automată din SEAP. Termenele și condițiile se citesc împreună cu sursele și rezervele din fiecare dosar.
+
+Butonul „Versiune locală” din copia offline nu descarcă încă o arhivă. Ai deja întregul portal dezarhivat.
